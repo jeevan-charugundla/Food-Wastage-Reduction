@@ -1,0 +1,5 @@
+{
+  "name": "Smart Food Redistribution",
+  "description": "A production-ready MVP for reducing food wastage by predicting attendance and redistributing surplus food to NGOs.",
+  "requestFramePermissions": []
+}
